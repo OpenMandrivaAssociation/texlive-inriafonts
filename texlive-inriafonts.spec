@@ -3,7 +3,7 @@ Version:	54512
 Release:	2
 Summary:	Inria fonts with LaTeX support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/inriafonts
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/inriafonts
 License:	ofl lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/inriafonts.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/inriafonts.doc.r%{version}.tar.xz
